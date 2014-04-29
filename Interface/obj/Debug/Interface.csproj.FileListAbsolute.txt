@@ -1,0 +1,78 @@
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\bin\Debug\Interface.exe.config
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\bin\Debug\Interface.exe
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\bin\Debug\Interface.pdb
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\obj\Debug\Interface.loginForm.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\obj\Debug\Interface.mainForm.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\obj\Debug\Interface.exe
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\obj\Debug\Interface.pdb
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\obj\Debug\Interface.mainWindow.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\obj\Debug\Interface.komentarzeUserControl.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\obj\Debug\Interface.Komentarze.wystawKomentarzControl.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\obj\Debug\Interface.Komentarze.blankContainerForm.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\Interface\Interface\Interface\obj\Debug\Interface.Komentarze.managerSzablonowControl.resources
+C:\Users\Omen\Desktop\Gry\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Omen\Desktop\Gry\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Omen\Desktop\Gry\Interface\Interface\obj\Debug\Interface.pdb
+C:\Users\Omen\Desktop\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.pdb
+C:\Users\Omen\Desktop\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Omen\Desktop\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.komentarzeUserControl.resources
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.Komentarze.managerSzablonowControl.resources
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.Komentarze.wystawKomentarzControl.resources
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.Komentarze.blankContainerForm.resources
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.loginForm.resources
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.mainForm.resources
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.mainWindow.resources
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.sprzedajeUserControl.resources
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.nieSprzedaneUserControl.resources
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.sprzedaneUserControl.resources
+C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.wystawianieUserControl.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.pdb
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.komentarzeUserControl.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.Komentarze.managerSzablonowControl.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.Komentarze.wystawKomentarzControl.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.Komentarze.blankContainerForm.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.loginForm.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.mainForm.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.mainWindow.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.nieSprzedaneUserControl.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.sprzedajeUserControl.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.sprzedaneUserControl.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.wystawianieUserControl.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\obj\Debug\Interface.ladowanieForm.resources
+C:\Users\Omen\Desktop\Inżynieria\Interface\Interface\bin\Debug\winapiBaza.sdf
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\bin\Debug\Interface.exe.config
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.exe
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.pdb
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.komentarzeUserControl.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.Komentarze.managerSzablonowControl.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.Komentarze.wystawKomentarzControl.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.Komentarze.blankContainerForm.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.ladowanieForm.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.loginForm.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.mainForm.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.nieSprzedaneUserControl.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.sprzedajeUserControl.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.sprzedaneUserControl.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.wystawianieUserControl.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\bin\Debug\winapiBaza.sdf
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\bin\Debug\Interface.exe
+E:\Maciek\IT\Studia\Semestr IV\Inzynieria Oprogramowania\DO_POGRUPOWANIA\Interface\Interface\bin\Debug\Interface.pdb
