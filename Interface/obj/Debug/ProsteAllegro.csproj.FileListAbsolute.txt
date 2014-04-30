@@ -56,3 +56,6 @@ C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.sprze
 C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.MojaSprzedaz.wystawianieUserControl.resources
 C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
 C:\Users\Omen\Desktop\Interface\Interface\obj\Debug\ProsteAllegro.csproj.GenerateResource.Cache
+C:\Users\Omen\Desktop\Interface\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Omen\Desktop\Interface\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Omen\Desktop\Interface\Interface\Interface\obj\Debug\Interface.pdb
